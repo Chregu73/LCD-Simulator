@@ -10,6 +10,7 @@ Das Programm kann normal mit Doppelklick gestartet werden. Oder in der Kommandoz
 1. = Display Typ (0...8) 0 = 16x1, 1 = 16x2, 2 = 16x4, 3 = 20x2, 4 = 20x4, 5 = 24x2, 6 = 24x4, 7 = 40x2, 8 = 40x4
 2. = Display Position X-Achse
 3. = Display Position Y-Achse
+
 Diese Parameter können auch in der .ini Datei eingestellt werden. Die Position mit Rechtsklick aus dem Programm.
 Das Display kann auf dem Screen mit linken Maustaste irgendwo gepackt und bewegt werden.
 
